@@ -2,6 +2,11 @@
 
 ### Important Commands
 
+- Reflector
+	- > reflector --verbose --sort rate -l 50 -p https --save /etc/pacman.d/mirrorlist
+
+- Pacman
+
 ### Commands
 
 ### Packages
