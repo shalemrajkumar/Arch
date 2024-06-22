@@ -6,6 +6,13 @@
 	- > reflector --verbose --sort rate -l 50 -p https --save /etc/pacman.d/mirrorlist
 
 - Pacman
+	 -pc -Ss `search packages in aur` 
+	- pc -Sy `updates repos`
+	- pc -R  `rm package`
+	- pc -Rs `rm pkg+dependencies`
+	- pc -Q  `query pkg`
+	- pc -Qdtq `lst orpan pkg`
+
 
 ### Commands
 
