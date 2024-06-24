@@ -41,3 +41,15 @@
 		- `direnv`
 
 			- > Env var based on dir
+		
+		- `csv tools`
+			
+			- > csv lens : command line csv viewer
+- **Themes**
+	
+	- Catppuccin : paste theme ig 
+
+- **Showoff**
+	
+	- pipes.sh (yay)
+
